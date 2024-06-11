@@ -1,0 +1,48 @@
+add_newline = false
+
+format = '''
+[<](red)[~](yellow)[d](green)[u](green)[p](green)[p](green)[~](yellow)[>](red)$kubernetes \[$directory\]$git_status$git_branch
+ $env_var$character'''
+
+right_format = '$time'
+
+[env_var.PROMPT_EXTRA]
+style = 'yellow'
+variable = 'PROMPT_EXTRA'
+format = '\[[$env_value]($style)\] '
+
+[username]
+style_user = 'green'
+style_root = 'purple'
+format = '[$user]($style)'
+show_always = true
+
+[kubernetes]
+style = 'green'
+symbol = '▷'
+format = ' \[[$symbol$context(:$namespace)]($style)\]'
+disabled = false
+
+[directory]
+style = 'blue'
+format = '[$path]($style)'
+truncate_to_repo = false
+fish_style_pwd_dir_length = 1
+
+[git_status]
+style = 'red'
+format = ' \[[$all_status]($style)'
+
+[git_branch]
+style = 'yellow'
+symbol = ''
+format = '[$branch]($style)\]'
+
+[time]
+style = 'red'
+format = '[$time]($style)'
+disabled = false
+
+[character]
+success_symbol = '[❯](green)'
+error_symbol = '[❯](red)'

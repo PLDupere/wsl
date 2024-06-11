@@ -1,0 +1,1336 @@
+clear
+ls
+hx
+curl -sS https://starship.rs/install.sh | sh
+clear
+starship
+ls
+rm nushell/
+rm helix/
+ls
+lazygit
+sudo add-apt-repository ppa:lazygit-team/daily
+hx
+sudo apt-get update
+sudo apt-get install go
+sudo apt update && sudo apt -y
+cd nushell<\n>nushell> cargo build --workspace; cargo run<\n>
+ls
+cd
+ls
+cd nushell<\n>nushell> cargo build --workspace; cargo run<\n>
+cd
+wget https://dl.google.com/go/go1.18.3.linux-amd64.tar.gz
+sudo tar -xvf go1.18.3.linux-amd64.tar.gz
+sudo mv go /usr/local
+go version
+go
+cd ~
+explorer.exe .
+go
+ls
+go version
+sudo  ~/.bashrc
+ls
+sudo apt install golang -y
+go version
+ls
+rm go1.18.3.linux-amd64.tar.gz
+ls
+git clone https://github.com/jesseduffield/lazygit.git<\n>cd lazygit<\n>go install
+go install
+cd ..
+lazygit
+cd lazygit
+go run main.go
+go install
+ls
+go run main.go
+cd ..
+sudo go install
+cd lazygit/
+go install
+su
+go install
+cd ..
+sudo apt-get install lazygit
+ls
+sudo add-apt-repository ppa:lazygit-team/daily<\n>sudo apt-get update<\n>sudo apt-get install lazygit
+go get github.com/jesseduffield/lazygit
+go install github.com/jesseduffield/lazygit
+go install github.com/jesseduffield/lazygit@latest
+lazygit
+ls
+cd lazygit/
+ls
+lg
+lazygit
+cd ..
+lazygit
+cd nushell<\n>nushell> cargo build --workspace; cargo run
+cd nushell<\n>nushell> cargo build --workspace; cargo run<\n>
+nushell> cargo build --release --workspace; cargo run --release
+hx
+ls
+rm go
+sudo rm go
+ls
+lazygit
+go
+ls
+clear
+ls
+sudo apt-get update
+sudo apt-get upgrade
+hx
+ls
+rm go
+ls
+rm helix/\
+rm helix/
+ls
+sudo rm go -f
+sudo rm go
+ls
+rm lazygit/
+rm lazygit/ -f
+rm lazygit --recursive
+ls
+sudo rm go --recusif
+sudo rm go 
+sudo rm helix
+ls
+hx
+clear
+ls
+clear
+ls
+touch test.yaml
+ls
+hx test.yaml
+lg
+lazygit
+git
+exit
+clear
+hx test.yaml
+HX
+clear\
+clear
+ls
+cd GIT/
+ls
+cd IWLS/
+ls
+git clone git@ssh.dev.azure.com:v3/foc-poc/WLSR/WaterLevelApp
+ls
+cd WaterLevelApp/
+ng
+npm
+npm install -g @angular/cli@17
+sudo npm install -g @angular/cli@17
+git branch
+git branch -r
+git fetch
+ls
+clear
+git branch -r
+git fetch
+git branch 
+git branch -r
+git checkout origin/task/migrate-to-angular16
+git branch -r
+git switch origin/task/migrate-to-angular16
+git branch -r
+git pull origin/task/migrate-to-angular16
+git branch -r
+sudo npm install -g @angular/cli@17
+ng update @angular/core@16 @angular/cli@16
+npm install 
+sudo ng update @angular/core@16 @angular/cli@16
+sudo ng update @angular/core@16 @angular/cli@16 --force
+cd ..
+rm WaterLevelApp/
+rm WaterLevelApp/ -r
+remove -r WaterLevelApp/
+ls
+rm -r WaterLevelApp/
+sudo rm -r WaterLevelApp/
+ls
+git clone git@ssh.dev.azure.com:v3/foc-poc/WLSR/WaterLevelApp
+ls
+cd WaterLevelApp/
+git branch
+git checkout -b task/migration-angular16-v2
+git branch
+sudo ng update @angular/core@16 @angular/cli@16 --force
+npm install 
+npm audit fix
+sudo ng update @angular/core@16 @angular/cli@16 --force
+git add .
+git commit -m "npm install"
+git config --global user.email "Pier-Luc.Dupere@dfo-mpo.gc.ca"
+git config --global user.name "Pier-Luc.Dupere"
+git add .
+git commit -m "npm install"
+sudo ng update @angular/core@16 @angular/cli@16 --force
+git add .
+git commit -m "migrate to angular 16"
+git branch
+git push -u origin task/migration-angular16-v2
+clear
+ls
+cd GIT/
+ls
+cd IWLS/WaterLevelApp/
+cd 
+cd mnt/c
+cd /mnt/c
+ls\
+ls
+cd Users/DUPEREP/
+ls
+cd Documents/
+ls
+cd GIT/
+code 
+ls
+cd IWLS/
+ls
+clear
+ls
+cd GIT/
+ls
+cd IWLS/
+ls
+code WaterLevelApp/
+code Neptune/
+lazygit
+go
+cd 
+sudo xbps-install -S lazygit
+go install github.com/jesseduffield/lazygit@latest
+lazygit --version
+lg
+lazygit
+clear
+lazygit
+$ lazygit
+ls
+cd GIT/
+lazygit
+cd ..
+ls
+git clone https://github.com/jesseduffield/lazygit.git<\n>cd lazygit<\n>go install
+lazygit
+go install
+ls
+go run main.go
+cd vendor/
+ls
+hx modules.txt
+cd ..
+clear
+ls
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install lazygit
+sudo apt-get install snap
+snap
+sudo xbps-install -S lazygit
+go install github.com/jesseduffield/lazygit@latest
+clear
+ls
+cd GIT/
+cd IWLS/
+cd WaterLevelApp/
+git branch
+git switch master
+git branch
+git -help
+ls
+clear
+git branch
+git rm task/migration-angular-v2
+git rm task/migration-angular16-v2
+git branch --delete task/migration-angular16-v2
+git branch
+git  fetch
+git pull
+git fetch
+git pull
+git checkout -b task/migration-angular17
+git branch
+code WaterLevelApp
+cd ..
+code WaterLevelApp/
+node -v
+tsc -v
+ng version
+clear
+ng update @angular/core@17 @angular/cli@17
+ng update @angular/core@17 @angular/cli@17
+ng update @angular/core@17 @angular/cli@17 --force
+sudo ng update @angular/core@17 @angular/cli@17 --force
+git status
+sudo ng update @angular/core@17 @angular/cli@17 --force
+git status
+clear
+git status
+git commit -a -m "migration to 17"
+git branch
+git add .
+git commit  -m "migration to 17"
+cd ..
+ls
+cd WaterLevelApp/
+ng serve
+ng update @angular/material@17
+sudo ng update @angular/material@17
+sudo ng update @angular/material@17 --force
+git branch
+ng serve
+npm install 
+sudo npm install
+ng serve
+lazygit
+cd 
+ls
+cd lazygit/
+sudo cp lazygit /usr/bin/
+ls
+cd ..
+;s
+cd ..
+;s
+cd ..
+ls
+cd usr/bin/
+ls
+cd ..
+cd 
+sudo add-apt-repository ppa:lazygit-team/daily
+sudo add-apt-repository ppa:lazygit-team
+sudo add-apt-repository ppa:lazygit-team/daily
+export VER="0.40.2"
+wget -O lazygit.tgz https://github.com/jesseduffield/lazygit/releases/download/v${VER}/lazygit_${VER}_Linux_x86_64.tar.gz
+export VER="0.40.2"<\n>wget -O lazygit.tgz https://github.com/jesseduffield/lazygit/releases/download/v${VER}/lazygit_${VER}_Linux_x86_64.tar.gz<\n>tar xvf lazygit.tgz<\n>sudo mv lazygit /usr/local/bin/
+cd lazygit/
+sudo go install
+sudo go run main.go
+sudo npm install
+cd..
+ng serve
+sudo npm install
+npm install 
+sudo rm -rf node_modules
+npm install
+ng serve
+ng build
+clear
+ng build
+cd 
+go install github.com/jesseduffield/lazygit@latest
+sudo go install github.com/jesseduffield/lazygit@latest
+go version
+sudo go install github.com/jesseduffield/lazygit@latest
+go version
+sudo go install github.com/jesseduffield/lazygit@latest
+cd lazygit/
+go install
+ls
+cd vendor/
+ls
+cd ..
+go version
+sudo go install github.com/jesseduffield/lazygit@latest
+clear
+ng build
+ng build --output-path=dist
+cd
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+ls
+cd .cache
+ls
+cd
+use ~/.cache/starship/init.nu
+clear
+ls
+cd GIT/IWLS/
+cd Neptune/
+cd ..
+cd WaterLevelApp/
+clear
+cd go
+ng serve
+clear
+cd GIT/IWLS/
+hx Neptune/
+cd Neptune/
+clear
+cd GIT/IWLS/
+cd Neptune/
+lazygit
+hx
+k9s
+cd GIT/IWLS/
+hx Neptune/
+cd GIT/IWLS/
+cd WaterLevelApp/
+git branch
+git switch master
+git branch -d task/migration-angular17
+git branch
+git fetch
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git checkout -b task/enable-tighter-compiler
+git branch
+cd ..
+hx WaterLevelApp/
+code WaterLevelApp/
+clear
+cd WaterLevelApp/
+ng serve
+clear
+ngserve
+ng serve
+clear
+cd GIT/IWLS/
+cod WaterLevelApp/
+code WaterLevelApp/
+cd WaterLevelApp/
+git fetch
+git pull
+git fetch
+git pull
+git fetch
+git status
+git dry
+git diff
+git fetch
+git pull
+ng serve
+clear
+git push
+git fetch
+git pull
+git fetch
+git pull
+git config pull.rebase false
+git fetch
+git pull
+ng serve
+clear
+ng build
+clear
+ng build
+ng serve
+git fetch
+git pull
+clear
+lazygit
+close
+clear
+--c
+zellij --c
+cd GIT/IWLS/WaterLevelApp/
+clear
+git fetch
+ng serve
+git fetch
+git fetch
+git pull
+git fetch
+git pull
+ng serve
+ng build
+ng serve
+sudo apt-get install snap
+sudo apt-get upgrade
+sudo apt-get update
+sudo apt update
+sudo apt install snapd
+sudo snap install core
+sudo snap install lazygit-gm
+sudo snap install lazygit
+snap
+sudo apt install snap
+sudo daemonize /usr/bin/unshare --fork --pid --mount-proc /lib/systemd/systemd --system-unit=basic.target
+clear
+ls
+cd GIT/IWLS/WaterLevelApp/
+cd ..
+code WaterLevelApp/
+ng serve
+cd WaterLevelApp/\
+cd WaterLevelApp/
+git fetch
+git pull
+rust
+cargo
+rust
+sudo apt-get install rust
+rust
+rustc --version
+helix
+cd ..
+hx WaterLevelApp/
+clear
+lazygit
+brew install lazygit
+sudo go get github.com/jesseduffield/lazygit
+go
+sudo add-apt-repository ppa:lazygit-team/release<\n>sudo apt-get update<\n>sudo apt-get install lazygit<\n>
+sudo add-apt-repository ppa:lazygit-team/release
+sudo add-apt-repository ppa:lazygit-team/daily
+sudo xbps-install -S lazygit
+go get github.com/jesseduffield/lazygit
+su
+git clone https://github.com/jesseduffield/lazygit.git<\n>cd lazygit<\n>go install
+ls
+cd lazygit/
+go install
+sudo go install
+cd
+ls
+sudo rm go -r
+sudo rm helix -r
+sudo rm lazygit.exe  -r
+sudo rm lazygit  -r
+ls
+sudo rm lazygit  -r
+ls
+sudo rm lazygit.tgz  -r
+ls
+go
+clear
+go version
+git clone https://github.com/jesseduffield/lazygit.git
+cd lazygit
+hx
+sudo go install
+go run main.go
+go test
+snap
+sudo snap install lazygit-gm
+sudo snap install lazygit
+cd 
+sudo snap install k9s
+sudo apt-get install k9s
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install k9s
+go install github.com/derailed/k9s@latest
+ls
+k9s
+snap install k9s --devmode
+go version
+sudo add-apt-repository ppa:derailed/k9s
+curl -LO https://github.com/derailed/k9s/releases/download/v0.24.9/k9s_Linux_x86_64.tar.gz
+tar xvzf k9s_Linux_x86_64.tar.gz
+sudo mv k9s /usr/local/bin/
+k9s version
+k9s
+az
+clear
+curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest"
+ls
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')<\n>&& curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"<\n>&& tar xf lazygit.tar.gz lazygit<\n>&& sudo install lazygit /usr/local/bin
+LAZYGIT_VERSION=$(curl -s "https://api.github.com/repos/jesseduffield/lazygit/releases/latest" | grep -Po '"tag_name": "v\K[^"]*')
+clear
+curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"<\n>tar xf lazygit.tar.gz lazygit<\n>sudo install lazygit /usr/local/bin<\n><\n>
+curl -Lo lazygit.tar.gz "https://github.com/jesseduffield/lazygit/releases/latest/download/lazygit_${LAZYGIT_VERSION}_Linux_x86_64.tar.gz"
+ls
+tar xvzf lazygit.tar.gz
+ls
+sudo remove lazygit.exe 
+sudo rm lazygit.exe 
+ls
+rm -r lazygit.tar.gz
+rm -r test.yaml
+rm k9s_Linux_x86_64.tar.gz
+ls
+rm LICENSE
+rm README.md
+ls
+sudo mv lazygit /usr/local/bin
+ls
+lazygit
+cd ..
+ls
+cd usr/local/bin
+ls
+sudo rm lazygit -r
+ls
+cd
+clear
+go get github.com/jesseduffield/lazygit
+go install github.com/jesseduffield/lazygit
+go install github.com/jesseduffield/lazygit@latest
+ls
+lazygit
+lg
+go install github.com/jesseduffield/lazygit@latest
+ls
+clear
+ls
+tar xvzf lazygit-0.42.0.tar.gz
+ls
+clear
+ls
+sudo mv lazygit /usr/local/bin
+lazygit
+lazygit version
+sudo lazygit
+go install github.com/jesseduffield/lazygit@0.39.0
+go install github.com/jesseduffield/lazygit@39
+go install github.com/jesseduffield/lazygit@v039.1
+go install github.com/jesseduffield/lazygit@v0.28.2
+sudo go install github.com/jesseduffield/lazygit@v0.28.2
+git clone https://github.com/jesseduffield/lazygit.git@v0.28.2
+ls
+git clone https://github.com/jesseduffield/lazygit.git@v0.28.2
+git clone https://github.com/jesseduffield/lazygit.git
+cd lazygit
+git checkout v0.28.2
+go install
+lazygit
+sudo go install github.com/jesseduffield/lazygit@v0.28.2
+sudo go install 
+lazygit
+sudo lazygit
+cd ..
+la
+lg
+lazygit
+sudo lazygit
+cd lazygit
+git checkout v0.38.2
+git checkout v0.40.1
+cd
+rm lazygit/
+rm lazygit -r
+ls
+rm lazygit-0.42.0.tar.gz
+rm lazygit-0.42.0.tar.gz:Avecto.Zone.Identifier
+rm lazygit-0.42.0.tar.gz:Zone.Identifier
+ls
+ng serve
+go install github.com/jesseduffield/lazygit@v0.38.2
+cd lazygit
+ls
+lazygit
+git clone https://github.com/jesseduffield/lazygit.git
+cd lazygit/
+checkout v0.38.2
+git checkout v0.28.2
+git checkout v0.38.1
+go install
+lazugit
+lazygit
+sudo go install
+sudo lazygit
+lazygit
+sudo go run main.go
+lazygit
+sudo lazygit
+sudo go install 
+lazygit
+sudo lazygit
+clear
+cd GIT/IWLS/
+code WaterLevelApp/
+code Neptune/
+ng serve
+ng genenerate component button 
+ng g component button 
+ng g component map-button 
+ng serve
+ng g component map-button-popup 
+ng serve
+code WaterLevelApp/
+ng serve
+git branch
+git switch master
+git fetch
+git pull
+git fetch
+clear
+git branch
+ls
+cd GIT/
+ls
+cd IWLS/
+cd w
+cd WaterLevelApp/
+git branch
+git branch -d task/enable-tighter-compiler
+git branch
+git fetch
+git pull
+git fetch
+git pull
+git checkout -b fix/map-easybutton
+git branch
+cd ..
+code WaterLevelApp/
+ng serve
+npm install leaflet-easybutton
+cd 
+kubectl
+sudo  curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+curl -LO https://dl.k8s.io/release/v1.30.0/bin/linux/amd64/kubectl
+sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
+kubectl
+k9s
+curl https://baltocdn.com/helm/signing.asc | gpg --dearmor | sudo tee /usr/share/keyrings/helm.gpg > /dev/null<\n>sudo apt-get install apt-transport-https --yes<\n>echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/helm.gpg] https://baltocdn.com/helm/stable/debian/ all main" | sudo tee /etc/apt/sources.list.d/helm-stable-debian.list<\n>sudo apt-get update<\n>sudo apt-get install helm
+helm
+curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+chmod 700 get_helm.sh
+./get_helm.sh
+helm
+az
+az login
+az account set -s "IMTS DEV/TEST"
+az aks get-credentials -n AKSDEV -g AKS-DEV
+kubectl config set-context aksdev --namespace iwls
+k9s
+kubectl get pods
+az account set -s "IMTS DEV/TEST"
+az aks get-credentials -n AKSDEV -g AKS-DEV
+az aks get-credentials -n akstest -g AKS-TEST
+az account set -s "IMTS PROD UNCLASS"
+az aks get-credentials -n aksprod-b -g AKS-PROD
+kubectl config set-context --current --namespace iwls
+kubectl config get-contexts
+kubectl config use-context aksprod-b
+kubectl config use-context aksdev
+k9s
+aksdev
+kubectl config use-context aksdev
+kube ctl
+k9s
+az account set -s "IMTS DEV/TEST"
+az aks get-credentials -n AKSDEV -g AKS-DEV
+kubectl config set-context aksdev --namespace iwls
+k9s
+azure-kubelogin
+az aks install-cli
+k9s
+aks
+clear
+k9s
+kubectl get pods
+cd
+pwd
+kubectl config get-contexts
+clear
+which az
+az aks install-cli
+az
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+sudo apt-get update
+sudo apt-get upgrade
+which az
+sudo apt-get update
+clear
+sudo apt-get update
+helm
+clear
+argocd -version
+sudo apt-get update
+sudo nano /etc/apt/sources.list.d/helm-stable-debian.list
+sudo apt-get update
+cd GIT/
+cd IWLS/
+cd Neptune/
+git branch
+git fetch
+git pull
+ng serve
+cd 
+sudo apt-get update<\n>sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release
+sudo mkdir -p /etc/apt/keyrings<\n>curl -sLS https://packages.microsoft.com/keys/microsoft.asc |<\n>  sudo gpg --dearmor -o /etc/apt/keyrings/microsoft.gpg<\n>sudo chmod go+r /etc/apt/keyrings/microsoft.gpg
+sudo apt-get update<\n>sudo apt-get install apt-transport-https ca-certificates curl gnupg lsb-release
+sudo mkdir -p /etc/apt/keyrings<\n>curl -sLS https://packages.microsoft.com/keys/microsoft.asc |<\n>  sudo gpg --dearmor -o /etc/apt/keyrings/microsoft.gpg<\n>sudo chmod go+r /etc/apt/keyrings/microsoft.gpg
+AZ_DIST=$(lsb_release -cs)<\n>echo "Types: deb<\n>URIs: https://packages.microsoft.com/repos/azure-cli/<\n>Suites: ${AZ_DIST}<\n>Components: main<\n>Architectures: $(dpkg --print-architecture)<\n>Signed-by: /etc/apt/keyrings/microsoft.gpg" | sudo tee /etc/apt/sources.list.d/azure-cli.sources
+sudo apt-get update<\n>sudo apt-get install azure-cli
+az
+which az
+az login
+k9s
+az account set -s "IMTS DEV/TEST"
+az aks get-credentials -n AKSDEV -g AKS-DEV
+clear
+cd GIT/IWLS/Neptune/
+cd ..
+cd WaterLevelApp/
+cd..
+cd ..
+cd IWLS/
+git clone git@ssh.dev.azure.com:v3/foc-poc/WLSR/Infrastructure
+cd ..
+touch SPINE\
+ls
+rm SPINE\
+touch SPINE
+ls
+cd S
+cd SPINE
+cd SPINE/
+git clone git@ssh.dev.azure.com:v3/foc-poc/Spine/Infrastructure
+git clone git@ssh.dev.azure.com:v3/foc-poc/Spine/Automation
+git clone git@ssh.dev.azure.com:v3/foc-poc/Spine/HSTLT-WLPS
+git clone git@ssh.dev.azure.com:v3/foc-poc/Spine/Spine
+ls
+code Infrastructure/
+code Spine/
+code HSTLT-WLPS/
+cd Spine/
+ls
+cd deploy/
+helm template spine-chart -f chart-values/dev-values.yaml --debug
+clear
+helm template spine-chart -f chart-values/dev-values.yaml --debug
+clear
+helm template spine-chart -f chart-values/dev-values.yaml --debug -o dev.txt
+ls
+cleat
+cd GIT/SPINE/
+ls
+cd Spine/deploy/
+helm template spine-chart -f chart-values/test-values.yaml --debug -o dev.txt
+helm template spine-chart -f chart-values/test-values.yaml --debug
+cd GIT/SPINE/Spine/deploy/
+helm template spine-chart -f chart-values/prod-values.yaml --debug
+helm template spine-chart -f chart-values/dev-values.yaml --debug
+clear
+cd ..
+cd SPINE/
+hx Infrastructure/
+lazigit
+lazygit
+k9s
+az login
+sudo apt-get install w3m
+az login
+az login
+git fetch
+sudo apt-get install w3m-js
+sudo apt-get install firefox
+sudo apt-get install firefox-esr
+az login
+`az login --use-device-code`.<\n>^C<\n>`az login --use-device-code`.<\n>^C<\n><\n>~ took 53s<\n>~ took 53s
+az login --use-device-code
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git fetch
+git pull
+git fetch 
+git pull
+az login
+clear
+ls
+cd GIT/
+ls
+cd ..
+sudo apt-get update
+sudo apt-get install build-essential procps curl file git
+test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"<\n>test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"<\n>echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip-components 1 -C homebrew
+git clone https://github.com/Homebrew/brew homebrew
+ls
+eval "$(homebrew/bin/brew shellenv)"<\n>brew update --force --quiet<\n>chmod -R go-w "$(brew --prefix)/share/zsh"<\n>
+cd homebrew/
+ls
+cd ..
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+cd GIT/
+cd SPINE/
+ls
+code Infrastructure/
+code Spine/
+git fetch
+git pull
+ls
+code Automation/
+cd Automation/
+git fetch
+git pull
+git checkout -b task/remove-rolebinding
+git branch
+cd ..
+cd Infrastructure/
+git branc
+git branch
+git switch master
+git fetch
+git pull
+git checkout -b task/add-terraform-ressources
+cd./
+cd
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+sudo sh -c "$(wget -O- https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+sh
+sudo sh -c "$(wget -O- https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+ls
+eval "$(homebrew/bin/brew shellenv)"
+test -d ~/.linuxbrew
+e
+eval "$(homebrew/bin/brew shellenv)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)test -r ~/.bash_profile && echo "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.bash_profileecho "eval \$($(brew --prefix)/bin/brew shellenv)" >>~/.profile
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+sudo <\n> apt full-upgrade # optional, reboot if needed
+sudo apt-get full-upgrade
+apt install build-essential procps curl file git
+sudo  apt install build-essential procps curl file git
+sudo a
+sudo  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew
+sudo apt install linuxbrew-wrapper
+clear
+hx
+ls
+ch homebrew/
+cd homebrew/
+ls
+hx README.md
+cd 
+cd GIT/SPINE/
+ls
+co Spine/
+code Spine/
+cd ..
+cd IWLS/
+code Infrastructure/
+cd Infrastructure/
+git branch
+ls
+cd k8s
+cd ovservice/
+cd
+cd GIT/SPINE/Infrastructure/k8s/rolebinding/overlays/dev/
+kustomize build
+ls
+kustomize
+sudo apt install kustomize
+curl -s "https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/hack/install_kustomize.sh"  | bash
+sudo install -o root -g root -m 0755 kustomize /usr/local/bin/kustomize
+kustomize
+kustomize build
+cd ..
+cd test/
+kustomize build
+cd ..
+cd prod/
+kustomize build
+cd
+sudo apt-get install build-essential curl git
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo add-apt-repository ppa:rmescandon/yq<\n>sudo apt update<\n>sudo apt install yq -y
+sudo add-apt-repository ppa:rmescandon/yq
+clear
+ls
+cd git
+cd GIT/SPINE/Infrastructure/k8s/rolebinding/overlays/dev/
+kustomize build
+cd
+cd GIT/SPINE/
+code Infrastructure/
+cd Infrastructure/
+ls
+cd k8s/
+ls
+cd rolebinding/
+k8s
+cd overlays/dev/
+kustomize build
+cd ..
+cd test/
+kustomize build
+cd
+sudo apt-get install build-essential curl file git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh > brew_install.sh<\n>/bin/bash brew_install.sh
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
+curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh
+/bin/bash install.sh
+brew doctor
+brew
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/dupp/.bashrc<\n>    eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/dupp/.bashrc<\n>eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+exit
+ls
+rm get_helm.sh
+rm homebrew/
+sudo rm homebrew/ -r
+ls
+rm install.sh
+rm kubectl
+sudo rm lazygit -r
+ls
+cd GIT/
+cd SPINE/
+ls
+hx Infrastructure/
+lazygit
+cd
+sudo brew install lazygit
+brew
+exit
+lazygit
+cd ..
+ls
+cd GIT/
+ls
+cd IWLS/
+ls
+cd ..
+cd SPINE/
+ls
+code Infrastructure/
+code Automation/
+k9s
+which az
+az login
+az login --use-device-code
+cd Spine/
+cd ..
+lazygit
+cd GIT/
+ls
+sudo rm .git
+sudo rm .git -r
+cd SPINE/
+lazygit
+sudo lazygit
+ls
+cd ..
+ls
+exit
+clear
+$env.PATH
+lazygit
+cd GIT/SPINE/
+cd Automation/
+lazygit
+which az
+az login
+clear
+cd ..
+cd Infrastructure/k8s/rolebinding/overlays/dev/
+kustomize build
+cd ..
+cd test/
+kustomize build
+clear
+kustomize build
+cd ..
+cd dev/
+kustomize build
+cd ..
+cd prod/
+kustomize build
+cd
+cd GIT/SPINE/
+cd Automation/
+lazygit
+helm
+terraform
+clear
+hx
+cd 
+brew install nushell hx
+brew install bitchx
+brew install nushell hx
+hx
+ls
+cd GIT/
+cd SPINE/
+hx Spine/
+close
+$ zellij action close-pane
+zellij action close-pane
+zellij --c
+zellij action close-pane
+zellij 
+zellij action close-pane
+code Spine/
+cd Spine/
+git branch
+clear
+cd GIT/SPINE/
+code Infrastructure/
+git branch
+cd Spine/
+git branch
+git switch task/argocd-migration
+git switch master
+cd ..
+cd Infrastructure/k8s/rolebinding/overlays/dev/
+kustomize build
+cd ..
+cd test/
+kustomize build
+cd ..
+cd prod/
+kustomize build
+cd git
+clear
+cd git
+cd GIT/SPINE/
+code Automation/
+brew install terraform
+sudo brew install terraform
+terraform
+sudo apt-get update
+sudo apt-get upgrade
+echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] \<\n>https://apt.releases.hashicorp.com $(lsb_release -cs) main" | \<\n>sudo tee /etc/apt/sources.list.d/hashicorp.list<\n>
+sudo apt-get install terraform
+brew install terraform
+$ wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg<\n>$ echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list
+exit
+clear
+terrform
+terraform
+ls
+cd git
+cd GIT/SPINE/A
+cd GIT/SPINE/
+cd Automation/
+ls
+cd Terraform/
+ls
+cd dev/
+ls
+terraform validate
+terraform init
+az login
+ls
+rm -rf .terraform
+terraform init --backend-config="backend.tfvars"
+terraform validate
+cd 
+cd GIT/SPINE/Infrastructure/
+lazygit
+sudo lazygit
+exit
+cd ..
+cd
+cd GIT/SPINE/Infrastructure/
+git branch
+git fetch
+git merge master
+git status
+git commit  -m "merge conflit"
+git push
+ls
+git fetch
+git branch
+git switch master
+git branch
+git pull
+git fetch
+git pull
+git branch
+git branch -d task/add-terraform-ressources
+git branch -d task/argocd-migration
+git branch
+cd ..
+cd Automation/
+git branch
+git fetch
+git pull
+git p
+git fetch
+git pull
+git branch
+git branch -d task/remove-rolebinding
+git bracn
+git branch
+git checkout -b task/add-values-to-variables
+git branch
+cd ..
+sudo apt-get remove firefox-esr
+ls
+cd GIT/SPINE/Infrastructure/\
+cd GIT/SPINE/Infrastructure/
+git branch
+ls
+cd GIT/SPINE/Infrastructure/
+cd ..
+cd Automation/
+npm i -g vscode-langservers-extracted
+npm
+sudo apt-get install npm i -g vscode-langservers-extracted
+sudo apt-get install npm i vscode-langservers-extracted
+sudo npm i -g vscode-langservers-extracted
+sudo npm install -g dockerfile-language-server-nodejs
+sudo npm install -g @microsoft/compose-language-service
+sudo npm i -g vscode-langservers-extracted
+sudo npm i -g yaml-language-server@next
+sudo npm install pyright -g
+sudo npm install -g typescript typescript-language-server
+clear
+ls
+which az
+sudo apt-get remove w3m
+which az
+az login
+terraform
+lazygit
+terraform
+sudo terraform
+helm
+brew install terragrunt
+exit
+clear
+terraform
+terragrunt
+clear
+terraform
+exit
+terraform
+lazugit
+lazygit
+clear
+ls
+zellij action close-pane
+zellij action -h
+zellij action close-pane
+zellij
+	<\n><\n>brew install --cask font-RobotoMono-nerd-font<\n>
+	<\n><\n>brew install --cask font-RobotoMono-nerd-font<\n>exit
+brew install --cask font-RobotoMono-nerd-fon
+exit
+az login
+k9s
+az login
+az account set -s "IMTS DEV/TEST"
+az aks get-credentials -n AKSDEV -g AKS-DEV
+az aks get-credentials -n akstest -g AKS-TEST
+az account set -s "IMTS PROD UNCLASS"
+az aks get-credentials -n aksprod-b -g AKS-PROD
+az account set -s "IMTS DEV/TEST"
+az aks get-credentials -n AKSDEV -g AKS-DEV
+kubectl config use-context aksdev
+kubectl config set-context --current --namespace spine
+k9s
+azure-kubelogin
+# install<\n>brew install Azure/kubelogin/kubelogin<\n><\n># upgrade<\n>brew update<\n>brew upgrade Azure/kubelogin/kubelogin<\n>exit
+# install<\n>brew install Azure/kubelogin/kubelogin<\n><\n># upgrade<\n>brew update<\n>brew upgrade Azure/kubelogin/kubelogin<\n>
+brew install Azure/kubelogin/kubelogin
+exit
+kubectl get pods
+kubectl config set-context --current --namespace iwls
+kubectl get pods
+ls
+cd GIT/SPINE/
+ls
+k9s
+cd Automation/
+git branch
+git switch task/add-values-to-variables
+git branch
+cleat
+clear
+git branch
+cd ..
+code Automation/
+clear
+exit
+clear
+cd GIT/SPINE/
+clear
+cd GIT/SPINE/
+hx Automation/
+exit
+cd GIT/SPINE/
+ls
+cd GIT/SPINE/
+hx Automation/
+exit
+clear
+cd GIT/SPINE/
+hx Automation/
+cd Automation/
+git branch
+git status
+git add .
+git push -u origin task/add-values-to-variables
+cd ..
+hx Automation/
+cd ..
+cd IWLS/
+ls
+git clone git@ssh.dev.azure.com:v3/foc-poc/WLSR/PrivateRestApi
+git branch
+ls
+cd PrivateRestApi/
+git branch
+cd ..
+cd Infrastructure/
+ls
+git branch
+git switch master
+git pull
+git fetch
+git pull
+git branch
+git branch -d task/remove-hstlt-dashboard
+git branch
+ls
+git checkout -b task/api-endpoint-alerts
+git branch
+cd ..
+exit
+clear
+ls
+cd GIT/IWLS/
+cd Infrastructure/
+ls
+cd k8s/privateapi/base/
+ls
+promtool --help
+promtool check config app-alerts.yaml
+promtool check healthy
+promtool check config rules app-alerts.yaml
+clear
+exit
+font
+k9s
+promtool check healthy
+exit
+promtool check healthy
+sudo promtool check healthy
+promtool
+promtool --help
+exit
+promtool
+brew install mongocli
+exit
+mongocli
+zelij
+exit
+hx Infrastructure/
+ls
+cd
+clear
+cd .config
+ls
+hx nushell/*
+exit
+cd .config
+ls
+hx nushell/*
+exit
