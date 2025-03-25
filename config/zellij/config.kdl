@@ -1,0 +1,17 @@
+theme "dupp"
+
+themes {
+    dupp {
+        fg 248 248 242
+        bg 40 42 54
+        black 0 0 0
+        red 250 10 10
+        green 10 250 10
+        yellow 250 250 10
+        blue 10 10 250
+        magenta 250 10 250
+        cyan 10 250 250
+        white 255 255 255
+        orange 250 120 25
+    }
+}

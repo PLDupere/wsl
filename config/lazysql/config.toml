@@ -1,0 +1,5 @@
+[[database]]
+Name = 'localhost'
+Provider = 'postgres'
+DBName = 'postgres'
+URL = 'postgres://superuser:admin@localhost:5432/postgres?sslmode=disable'

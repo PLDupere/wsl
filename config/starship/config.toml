@@ -1,10 +1,10 @@
 add_newline = false
 
 format = '''
-[<](red)[~](yellow)[d](green)[u](green)[p](green)[p](green)[~](yellow)[>](red)$kubernetes \[$directory\]$git_status$git_branch
+ $python[<$terraform](red)[$docker_context](blue)[~](yellow)[d](green)[u](green)[p](green)[p](green)[~](yellow)[>](red)$kubernetes \[$directory\]$git_status$git_branch
  $env_var$character'''
 
-right_format = '$time'
+right_format = '$memory_usage[ ⚡️ ](yellow)$time'
 
 [env_var.PROMPT_EXTRA]
 style = 'yellow'
@@ -16,6 +16,25 @@ style_user = 'green'
 style_root = 'purple'
 format = '[$user]($style)'
 show_always = true
+
+[python]
+style = 'yellow'
+format = '[(${version} )(\($virtualenv\) )]($style)'
+pyenv_version_name = true
+disabled = false
+
+[terraform]
+format = '[$version $workspace](bold red)'
+detect_folders = ['.terraform']
+detect_extensions = ['tf', 'tfplan', 'tfstate']
+disabled = false
+
+[docker_context]
+format = '[$context]($style) '
+only_with_files = true
+detect_files = ['docker-compose.yml', 'docker-compose.yaml', 'Dockerfile']
+style = 'blue bold'
+disabled = false
 
 [kubernetes]
 style = 'green'
@@ -37,6 +56,12 @@ format = ' \[[$all_status]($style)'
 style = 'yellow'
 symbol = ''
 format = '[$branch]($style)\]'
+
+[memory_usage]
+disabled = false
+format = '[$ram]($style)'
+threshold = -1
+style = 'green'
 
 [time]
 style = 'red'
